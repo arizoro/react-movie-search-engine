@@ -1,0 +1,5 @@
+{
+    "/api" : {
+        "target" : 'https://api.themoviedb.org/3/movie/popular',
+    }
+}
